@@ -1,0 +1,80 @@
+File
+    Load     F3
+    Pick Alt-F3
+    New
+    Save     F2
+    Write to
+    Diretory
+    Change Dir
+    Os Shell
+    Quit  Alx-X
+Edit
+Run
+    Program reset Ctrl-F2
+    Go To cursor       F4
+    Trace into         F7
+    Step over          F8
+    User Screen    Alt-F5
+Compile
+    Compile to OBJ
+    Make EXE file
+    Link EXE file
+    Build all
+    Primary C file
+    Get info
+Project
+    Project name
+    Break make on
+    Auto dependencies
+    Clear project
+    Remove messages
+Break/Watch
+    Add watch Ctrl-F7
+    Delete watch
+    Edit watch
+    Remove all watches
+    Toggle breakpoint Ctrl-F8
+    Clear all breakpoints
+    View next breakpoint
+Debug
+    Evalute    Ctrl-F4
+    Call stack Ctrl-F3
+    Find function
+    Refresh display
+    Display swapping
+    Source debugging
+Options
+    Compiler
+        Model
+        Defines
+        Code generation
+        Optimization
+        Source
+        Errors
+        Names
+    Linker
+        Map file
+        Initialize segments
+        Default library
+        Warn duplicate symbols
+        Stack warning
+        Case-sensitive link
+    Environment
+        Message Tracking
+        Keep messages
+        Config auto save
+        Edit auto save
+        Backup files
+        Tab Size
+        Zoomed windows
+        Screen size
+    Directories
+        Include directories
+        Library directories
+        Output directories
+        Turbo C directory
+        Pick file name
+        Current pick file
+    Arguments
+        Save options
+        Retrieve options
